@@ -1,0 +1,16 @@
+[
+{
+  "modid": "icbmoc",
+  "name": "ICBM OpenComputers Driver",
+  "description": "A driver to access ICBM launch pads and radars through OpenComputers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
